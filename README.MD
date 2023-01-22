@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa desenvolvido durante o curso de Lógica de Programação na Alura. <br/>
-<a href="https://cursos.alura.com.br/course/pong-javascript/task/56089">Estude esse projeto através desse curso.</a>
+<a href="https://cursos.alura.com.br/course/pong-javascript/task/56089" target="_blank">Estude esse projeto através desse curso.</a>
 </p>
 
 <p align="center">
@@ -32,17 +32,35 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O jogo pong foi desenvolvido utilizando a linguagem de programação Scratch e simula um jogo de ping-pong com duas raquetes, uma bola e a pontuação de cada jogador.
 
-- [Acesse o projeto finalizado, online](https://scratch.mit.edu/projects/734114605)
+Na plataforma é possível utilizar várias opções de códigos, fantasias e sons.
 
-- [Assistir aulas](https://cursos.alura.com.br/course/pong-javascript/task/56089)
+Foi implementado a colisão da bolinha com as bordas, minha raquete e a raquete do oponente;
+
+Foi movimentada a raquete do oponente de forma individual, para acertar a bolinha na maioria das vezes;
+
+Foi criado o placar do jogo, indicando os meus pontos e do oponente;
+
+Foi adicionado sons e editado a página do jogo no Scratch para que outras pessoas possam jogar.
+
+
+
+[Acesse o projeto finalizado, online.](https://scratch.mit.edu/projects/734114605) 
+
+[Assistir a aula.](https://cursos.alura.com.br/course/pong-javascript/task/56089) 
+
 
 ## 🔖 Jogo
 
-Você pode visualizar o jogo abaixo:
+Instruções:
 
-<iframe src="https://scratch.mit.edu/projects/734114605/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+1. Clique na bandeira verde para iniciar o jogo;
+2. Clique na bola vermelha para parar o jogo;
+3. Utilize as setas para cima e para baixo para movimentar a raquete verde e jogar contra a raquete azul do computador.
+4. Marca ponto ao acertar a parede do oponente.
+
+
 
 ## :memo: Licença
 
@@ -51,6 +69,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito durante o curso na
-<a href="https://cursos.alura.com.br/course/pong-javascript/task/56089"
-        >Alura</a
-      >
+<a href="https://cursos.alura.com.br/course/pong-javascript/task/56089" target="_blank">Alura</a>
