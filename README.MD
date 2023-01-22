@@ -70,3 +70,4 @@ Esse projeto está sob a licença MIT.
 
 Feito durante o curso na
 <a href="https://cursos.alura.com.br/course/pong-javascript/task/56089" target="_blank">Alura</a>
+# pongmontescript
